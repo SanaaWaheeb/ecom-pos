@@ -1,0 +1,48 @@
+{
+    "section_name": "Category",
+    "section_slug": "category",
+    "unique_section_slug": "category",
+    "section_enable": "on",
+    "array_type": "inner-list",
+    "loop_number": 1,
+    "section":{
+
+        "title":{
+            "lable" : "Category Title",
+            "slug" :  "category_title",
+            "text" : "Create a tropical Glocery<br><b> in your home.</b>",
+            "type" : "text",
+            "placeholder" : "Please enter here.."
+        },
+        "button":{
+            "lable" : "Category Button",
+            "slug" :  "category_button",
+            "text" : "Check More Products",
+            "type" : "text",
+            "placeholder" : "Please enter here.."
+        },
+        "sub_title":{
+            "lable" : "Category Sub Title",
+            "slug" :  "category_sub_title",
+            "text" : "Fruit & Vegetables",
+            "type" : "text",
+            "placeholder" : "Please enter here..."
+        },
+        "description":{
+            "lable" : "Category Description",
+            "slug" :  "Category_description",
+            "text" : "Tesco has a whole sub-domain where it presents its food-related content, known as “Tesco Real Food”.",
+            "type" : "textarea",
+            "placeholder" : "Please enter here..."
+        },
+
+        "background_image":{
+            "lable" : "Category Background Image",
+            "slug" :  "Category_background_image",
+            "text" : "themes/minimarket/assets/images/img1.png",
+            "image": "themes/minimarket/assets/images/img1.png",
+            "type" : "file",
+            "placeholder" : "Please select file"
+        }
+    }
+}

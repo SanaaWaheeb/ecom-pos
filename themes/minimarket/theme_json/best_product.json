@@ -1,0 +1,47 @@
+
+{
+    "section_name": "Best - Product",
+    "section_slug": "best_product",
+    "unique_section_slug": "best_product",
+    "section_enable": "on",
+    "array_type": "inner-list",
+    "loop_number": 1,
+    "section":{
+        "title":{
+            "lable" : "Best Product Title",
+            "slug" :  "best_product_title",
+            "text" : "How grocery stores do it right",
+            "type" : "text",
+            "placeholder" : "Please enter here.."
+        },
+        "sub_title":{
+            "lable" : "Best Product Sub Title",
+            "slug" :  "best_product_subtitle",
+            "text" : " Fruits",
+            "type" : "text",
+            "placeholder" : "Please enter here..."
+        },
+        "button":{
+            "lable" : "Best Product Button",
+            "slug" :  "best_product_button",
+            "text" : "Show More",
+            "type" : "text",
+            "placeholder" : "Please enter here.."
+        },
+        "description":{
+            "lable" : "Best Product Description",
+            "slug" :  "best_product_description",
+            "text" : "It’s easy to be at a loss for inspiration when you come home worn out after hours at work and on the subway.",
+            "type" : "textarea",
+            "placeholder" : "Please enter here.."
+        },
+        "image":{
+            "lable" : "Best Image",
+            "slug" :  "best_image",
+            "text" : "themes/minimarket/assets/images/img2.png",
+            "image": "themes/minimarket/assets/images/img2.png",
+            "type" : "file",
+            "placeholder" : "Please select file"
+        }
+    }
+}

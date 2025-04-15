@@ -1,0 +1,24 @@
+{
+    "section_name": "Homepage Logos",
+    "section_slug": "logo_slider",
+    "unique_section_slug": "logo_slider",
+    "section_enable": "on",
+    "array_type": "multi-inner-list",
+    "loop_number": 4,
+    "section":{
+        "title":{
+            "lable" : "Logo Slider Title",
+            "slug" :  "logo_slider_title",
+            "text" : ["orders in month","Glocery and other categories","years of experience","happy clients and partners"],
+            "type" : "text",
+            "placeholder" : "Please enter here..."
+        },
+        "description":{
+            "lable" : "Logo Slider Description",
+            "slug" :  "logo_slider_description",
+            "text" : ["3000","17","10","4.9"],
+            "type" : "number",
+            "placeholder" : "Please enter here..."
+        }
+    }
+}

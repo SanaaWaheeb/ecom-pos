@@ -1,0 +1,1 @@
+<?php echo $__env->yieldPushContent('productqrcodetitle'); ?><?php /**PATH C:\xampp\htdocs\ecommerce-pos\resources\views/front_end/hooks/cart_table_head.blade.php ENDPATH**/ ?>

@@ -1,0 +1,39 @@
+{
+    "section_name": "Product - Category",
+    "section_slug": "product_category",
+    "unique_section_slug": "product_category",
+    "section_enable": "on",
+    "array_type": "inner-list",
+    "loop_number": 1,
+    "section":{
+        "title":{
+            "lable" : "Product Category Title",
+            "slug" :  "product_category_title",
+            "text" : "<b>Gluten-Free Girl </b> <br> and the Chef",
+            "type" : "text",
+            "placeholder" : "Please enter here.."
+        },
+        "sub_title":{
+            "lable" : "Product Category Sub Title",
+            "slug" :  "product_category_sub_title",
+            "text" : "Fruit & Vegetables",
+            "type" : "text",
+            "placeholder" : "Please enter here..."
+        },
+        "description":{
+            "lable" : "Product Category Description",
+            "slug" :  "product_category_description",
+            "text" : "Whole foods is one grocery store that has worked hard to establish its excellent reputation.",
+            "type" : "textarea",
+            "placeholder" : "Please enter here.."
+        },
+        "button":{
+            "lable" : "Product Category Button",
+            "slug" :  "product_category_button",
+            "text" : "Check More Products",
+            "type" : "text",
+            "placeholder" : "Please enter here.."
+        }
+
+    }
+}

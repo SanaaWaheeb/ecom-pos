@@ -1,0 +1,53 @@
+{
+    "section_name": "Homepage Slider",
+    "section_slug": "slider",
+    "unique_section_slug": "slider",
+    "section_enable": "on",
+    "array_type": "multi-inner-list",
+    "loop_number": 3,
+    "section":{
+        "title":{
+            "lable" : "Slider Title",
+            "slug" :  "slider_title",
+            "text" : ["Innovative Gastronomic  <b>Collective </b>","Innovative Gastronomic  <b>Collective </b>","Innovative Gastronomic  <b>Collective </b>"],
+            "type" : "text",
+            "placeholder" : "Please enter here..."
+        },
+        "sub_title":{
+            "lable" : "Slider Sub Title",
+            "slug" :  "slider_sub_title",
+            "text" : [" Fruit & Vegetables"," Fruit & Vegetables"," Fruit & Vegetables"],
+            "type" : "text",
+            "placeholder" : "Please enter here..."
+        },
+        "description":{
+            "lable" : "Slider Description",
+            "slug" :  "slider_description",
+            "text" : ["Buying one’s food and other commodities via the internet is a highly competitive business lately, due to almost everyone having a computer, and the millennial generation wanting to shop without the hassle of pushing a trolley around their local supermarket.","Buying one’s food and other commodities via the internet is a highly competitive business lately, due to almost everyone having a computer, and the millennial generation wanting to shop without the hassle of pushing a trolley around their local supermarket.","Buying one’s food and other commodities via the internet is a highly competitive business lately, due to almost everyone having a computer, and the millennial generation wanting to shop without the hassle of pushing a trolley around their local supermarket."],
+            "type" : "textarea",
+            "placeholder" : "Please enter here..."
+        },
+        "button_first":{
+            "lable" : "Slider First Button",
+            "slug" :  "slider_first_button",
+            "text" : ["Check more products","Check more products","Check more products"],
+            "type" : "text",
+            "placeholder" : "Please enter here..."
+        },
+        "button_second":{
+            "lable" : "Slider Second Button",
+            "slug" :  "slider_second_button",
+            "text" : ["Check Video","Check Video","Check Video"],
+            "type" : "text",
+            "placeholder" : "Please enter here..."
+        },
+        "background_image":{
+            "lable" : "Slider Background Image",
+            "slug" :  "slider_background_image",
+            "text" : "themes/minimarket/assets/images/home-bg.png",
+            "image": "themes/minimarket/assets/images/home-bg.png",
+            "type" : "file",
+            "placeholder" : "Please select file"
+        }
+    }
+}

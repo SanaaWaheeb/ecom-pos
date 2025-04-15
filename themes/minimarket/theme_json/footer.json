@@ -1,0 +1,94 @@
+{
+    "section_name": "Footer - Section",
+    "section_slug": "footer",
+    "unique_section_slug": "footer",
+    "section_enable": "on",
+    "array_type": "inner-list",
+    "loop_number": 1,
+    "section":{
+        "description":{
+            "lable" : "Footer Section Description",
+            "slug" :  "footer_description",
+            "text" : "Please feel free to contact us if you have any questions or would like to schedule a consultation. We look forward to hearing from you!",
+            "type" : "textarea",
+            "placeholder" : "Please enter here.."
+        },
+        "background_image":{
+            "lable" : "Slider Background Image",
+            "slug" :  "slider_background_image",
+            "text" : "themes/minimarket/assets/images/footer.png",
+            "image": "themes/minimarket/assets/images/footer.png",
+            "type" : "file",
+            "placeholder" : "Please select file"
+        },
+        "footer_link":{
+            "lable" : "Footer Links",
+            "slug" :  "footer_links",
+            "text" : "Footer Links",
+            "type" : "array",
+            "loop_number" : 4,
+            "social_link":["https://www.youtube.com/","https://www.facebook.com/","https://www.instagram.com/","https://www.twitter.com/"],
+            "social_icon":[
+                {
+                    "text":"themes/minimarket/assets/images/youtube.png",
+                    "image":"themes/minimarket/assets/images/youtube.png"
+                },{
+                    "text":"themes/minimarket/assets/images/facebook.png",
+                    "image":"themes/minimarket/assets/images/facebook.png"
+                },{
+                    "text":"themes/minimarket/assets/images/insta.png",
+                    "image":"themes/minimarket/assets/images/insta.png"
+                },{
+                    "text":"themes/minimarket/assets/images/twitter.png",
+                    "image":"themes/minimarket/assets/images/twitter.png"
+                }
+            ]
+        },
+        "footer_menu_type": {
+            "lable" : "Footer Menu Type",
+            "slug" :  "footer_menu_type",
+            "text" : "footer_menu_bar",
+            "type" : "array",
+            "loop_number" : 2,
+            "footer_menu_ids":[]
+        },
+        "title":{
+            "lable" : "Title",
+            "slug" :  "text",
+            "text" : "<b>Monday - Friday: </b><br> 8:00 AM - 9:00 PM",
+            "type" : "text",
+            "placeholder" : "Please enter here..."
+        },
+        "sub_title":{
+            "lable" : "Footer Subtitle",
+            "slug" :  "footer_sub_title",
+            "text" : "SHARE : ",
+            "type" : "text",
+            "placeholder" : "Please enter here..."
+        },
+
+        "menu_type": {
+            "lable" : "Menu Type",
+            "slug" :  "menu_type",
+            "text" : "menu_bar",
+            "type" : "select",
+            "placeholder" : "Please select..",
+            "menu_ids":[]
+        },
+        "image":{
+            "lable" : "Logo Slider Image",
+            "slug" :  "logo_slider_image",
+            "text" : ["themes/minimarket/assets/images/footer-img4.png"],
+            "image": ["themes/minimarket/assets/images/footer-img4.png"],
+            "type" : "file",
+            "placeholder" : "Please select file"
+        },
+        "footer_title":{
+            "lable" : "Social Title",
+            "slug" :  "footer_title",
+            "text" : "INSTAGRAM",
+            "type" : "text",
+            "placeholder" : "Please enter here..."
+        }
+    }
+}

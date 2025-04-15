@@ -1,0 +1,46 @@
+{
+    "section_name": "VariantBackground - Section",
+    "section_slug": "variant_background",
+    "unique_section_slug": "variant_background",
+    "section_enable": "on",
+    "array_type": "inner-list",
+    "loop_number": 1,
+    "section":{
+        "title":{
+            "lable" : "Variant Background Title",
+            "slug" :  "variant_background_title",
+            "text" : "It’s a Veg World After All ",
+            "type" : "text",
+            "placeholder" : "Please enter here.."
+        },
+        "sub_title":{
+            "lable" : "Variant Background Sub Title",
+            "slug" :  "variant_background_sub_title",
+            "text" : " Fruit & Vegetables",
+            "type" : "text",
+            "placeholder" : "Please enter here..."
+        },
+        "description":{
+            "lable" : "Variant Background Description",
+            "slug" :  "variant_background_description",
+            "text" : "The food and beverage industry was no exception to any of these changes, and over the last 18 months, some grocery brands experienced record-breaking revenues.",
+            "type" : "textarea",
+            "placeholder" : "Please enter here.."
+        },
+        "button":{
+            "lable" : "Variant Background Button",
+            "slug" :  "variant_background_button",
+            "text" : "Play Video",
+            "type" : "text",
+            "placeholder" : "Please enter here.."
+        },
+        "image":{
+            "lable" : "Varinat Background Image",
+            "slug" :  "variant_background_image",
+            "text" : "themes/minimarket/assets/images/banner1.png",
+            "image" : "themes/minimarket/assets/images/banner1.png",
+            "type" : "photoupload",
+            "placeholder" : "Please enter here.."
+        }
+    }
+}
